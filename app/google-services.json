@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "205402778532",
+    "firebase_url": "https://boardpractice.firebaseio.com",
+    "project_id": "boardpractice",
+    "storage_bucket": "boardpractice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205402778532:android:17573559351bdfbe",
+        "android_client_info": {
+          "package_name": "com.example.postpractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205402778532-lkr9rb6m7dbigtel6f0026lsvnnc729l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSZ0L5XzmeF0rfkNUuB3-C8A1Gv3ba4IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205402778532-lkr9rb6m7dbigtel6f0026lsvnnc729l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
